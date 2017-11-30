@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/androidTest/debug/xml/dummy_tabs_three.xml",
+        "source": "/home/pavan/edu/BottomBar-master/bottom-bar/src/androidTest/res/xml/dummy_tabs_three.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/androidTest/debug/xml/dummy_tabs_five.xml",
+        "source": "/home/pavan/edu/BottomBar-master/bottom-bar/src/androidTest/res/xml/dummy_tabs_five.xml"
+    }
+]

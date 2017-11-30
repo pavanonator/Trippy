@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /root/.android/build-cache/d7eb4d6d60ba31d194f5e84f02a1f9bfc80d227d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /root/.android/build-cache/832ef32620ac8f4999428ed4ae8a424ff47f9fd3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /root/.android/build-cache/ed2aab0cfc65ca32bdf02667db039210c364befa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /root/.android/build-cache/d4443769d826daa0f165648b6d25d3a85a857e2c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /root/.android/build-cache/158c46c233698471bd3785b0a18149baa46848a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /root/.android/build-cache/f264499b39586b79ae840690c00de5125d7a3714/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /root/.android/build-cache/a7298de9d8b95e1b7182687c326acbe2c3b4c00f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /root/.android/build-cache/865db27c0108c6a7f0929791f42650ae16358281/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /root/.android/build-cache/5500bd2a8983cc01171bac4bd83cb6a43c63621f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.bottombar.sample.MainActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:launchMode
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:13:13-48
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.bottombar.sample.ThreeTabsActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:20:9-55
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:20:19-52
+activity#com.example.bottombar.sample.IconsOnlyActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:21:19-52
+activity#com.example.bottombar.sample.FiveColorChangingTabsActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:22:9-108
+	android:theme
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:22:65-105
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:22:19-64
+activity#com.example.bottombar.sample.ThreeTabsQRActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:23:9-98
+	android:theme
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:23:55-95
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:23:19-54
+activity#com.example.bottombar.sample.BadgeActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:24:19-48
+activity#com.example.bottombar.sample.CustomColorAndFontActivity
+ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml:25:19-61
+uses-sdk
+INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.roughike:bottom-bar:2.3.1] /home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /root/.android/build-cache/d7eb4d6d60ba31d194f5e84f02a1f9bfc80d227d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /root/.android/build-cache/832ef32620ac8f4999428ed4ae8a424ff47f9fd3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /root/.android/build-cache/75b5a8b00253a7d88c227114d3f47193f048d25b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /root/.android/build-cache/ed2aab0cfc65ca32bdf02667db039210c364befa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /root/.android/build-cache/d4443769d826daa0f165648b6d25d3a85a857e2c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /root/.android/build-cache/158c46c233698471bd3785b0a18149baa46848a3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /root/.android/build-cache/f264499b39586b79ae840690c00de5125d7a3714/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /root/.android/build-cache/a7298de9d8b95e1b7182687c326acbe2c3b4c00f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /root/.android/build-cache/865db27c0108c6a7f0929791f42650ae16358281/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /root/.android/build-cache/5500bd2a8983cc01171bac4bd83cb6a43c63621f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pavan/edu/BottomBar-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /root/.android/build-cache/d7eb4d6d60ba31d194f5e84f02a1f9bfc80d227d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /root/.android/build-cache/832ef32620ac8f4999428ed4ae8a424ff47f9fd3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /root/.android/build-cache/75b5a8b00253a7d88c227114d3f47193f048d25b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /root/.android/build-cache/ed2aab0cfc65ca32bdf02667db039210c364befa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /root/.android/build-cache/d4443769d826daa0f165648b6d25d3a85a857e2c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /root/.android/build-cache/158c46c233698471bd3785b0a18149baa46848a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /root/.android/build-cache/f264499b39586b79ae840690c00de5125d7a3714/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /root/.android/build-cache/a7298de9d8b95e1b7182687c326acbe2c3b4c00f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /root/.android/build-cache/865db27c0108c6a7f0929791f42650ae16358281/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /root/.android/build-cache/5500bd2a8983cc01171bac4bd83cb6a43c63621f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/AndroidManifest.xml:26:9-47

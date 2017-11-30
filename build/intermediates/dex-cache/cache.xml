@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_e5f48e2a7a6c9bdfa281cd65e044bfafc7e5745a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d4443769d826daa0f165648b6d25d3a85a857e2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_17834b928a9070fe76d29ffe94eddc4112c3e019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pavan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_790d83e122ed7df5d38ffcf096d399f56d2178f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5500bd2a8983cc01171bac4bd83cb6a43c63621f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_944b560175d5cdb631242539f5909f4f75c1fd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/832ef32620ac8f4999428ed4ae8a424ff47f9fd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_d0984ec18a68c6bbcf9b4a5fda6fd61bba0168a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/158c46c233698471bd3785b0a18149baa46848a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_bc6b00d53be8dc24a7f4b4916717a025b3b74499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ed2aab0cfc65ca32bdf02667db039210c364befa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_0add3ab62fac99ef3326436dc71bacbb350c64fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/865db27c0108c6a7f0929791f42650ae16358281/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_145c9910741e4c9ddbcbfb2ceff844675fcafd12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_99419a3d2a74dac2b036eba7db6654cf035f9b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d7eb4d6d60ba31d194f5e84f02a1f9bfc80d227d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_41cb2c4287385392e2ba8945ffdb25ae05962d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/75b5a8b00253a7d88c227114d3f47193f048d25b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_e809c99cd6b188cfabe5ffbb2823261c0db048eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9dccb4a8f6f4f4d746ee052f60995736994a29">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_a4c150b60420981a4573a5ce769d7553501b0a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a7298de9d8b95e1b7182687c326acbe2c3b4c00f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_b500408226e2e97d98394d0f2e3c6c10abdb2c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f264499b39586b79ae840690c00de5125d7a3714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/pavan/edu/BottomBar-master/app/build/intermediates/pre-dexed/debug/classes_9b319677fe4b58ed8009ed81617555f43c615bd2.jar" />
+    </item>
+
+</items>

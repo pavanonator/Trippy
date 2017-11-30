@@ -2,22 +2,40 @@ package com.example.bottombar.sample;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.IdRes;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.roughike.bottombar.BottomBar;
+import com.roughike.bottombar.OnTabReselectListener;
+import com.roughike.bottombar.OnTabSelectListener;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    private TextView messageView;
     @SuppressWarnings("ConstantConditions")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_icons_only);
 
-        findViewById(R.id.simple_three_tabs).setOnClickListener(this);
-        findViewById(R.id.icons_only).setOnClickListener(this);
-        findViewById(R.id.five_tabs_changing_colors).setOnClickListener(this);
-        findViewById(R.id.three_tabs_quick_return).setOnClickListener(this);
-        findViewById(R.id.five_tabs_custom_colors).setOnClickListener(this);
-        findViewById(R.id.badges).setOnClickListener(this);
+        messageView = (TextView) findViewById(R.id.messageView);
+
+        BottomBar bottomBar = (BottomBar) findViewById(R.id.bottomBar);
+        bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
+            @Override
+            public void onTabSelected(@IdRes int tabId) {
+                messageView.setText(TabMessage.get(tabId, false));
+            }
+        });
+
+        bottomBar.setOnTabReselectListener(new OnTabReselectListener() {
+            @Override
+            public void onTabReSelected(@IdRes int tabId) {
+                Toast.makeText(getApplicationContext(), TabMessage.get(tabId, true), Toast.LENGTH_LONG).show();
+            }
+        });
     }
 
     @Override

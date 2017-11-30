@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/bottom-bar/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/858a91fe06e2d3d900e376f087dd243575b062c4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

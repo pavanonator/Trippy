@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_recents.png",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/drawable-xxxhdpi/ic_recents.png"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_favorites.png",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/drawable-xxxhdpi/ic_favorites.png"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_restaurants.png",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/drawable-xxxhdpi/ic_restaurants.png"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_friends.png",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/drawable-xxxhdpi/ic_friends.png"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_nearby.png",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/drawable-xxxhdpi/ic_nearby.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/activity_color_changing_tabs.xml",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/layout-sw600dp/activity_color_changing_tabs.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/root/.android/build-cache/ad3648743e8bb8711c5d125994360cfeaa479ab3/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/activity_three_tabs.xml",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/layout-sw600dp/activity_three_tabs.xml"
+    }
+]

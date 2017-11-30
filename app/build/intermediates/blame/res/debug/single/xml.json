@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/xml/bottombar_tabs_color_changing.xml",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/xml/bottombar_tabs_color_changing.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/xml/bottombar_tabs_five.xml",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/xml/bottombar_tabs_five.xml"
+    },
+    {
+        "merged": "/home/pavan/edu/BottomBar-master/app/build/intermediates/res/merged/debug/xml/bottombar_tabs_three.xml",
+        "source": "/home/pavan/edu/BottomBar-master/app/src/main/res/xml/bottombar_tabs_three.xml"
+    }
+]
