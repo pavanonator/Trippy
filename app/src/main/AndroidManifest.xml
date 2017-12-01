@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bottombar.sample">
-
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -23,6 +23,8 @@
         <activity android:name=".ThreeTabsQRActivity" android:theme="@style/AppTheme.TransNav" />
         <activity android:name=".BadgeActivity" />
         <activity android:name=".CustomColorAndFontActivity" />
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
     </application>
-
+    keytool -exportcert -alias releasekey -keystore ~/.android/releasekey.keystore | "C:\Users\Brian\openssl\bin\openssl.exe" sha1 -binary | "C:\Users\Brian\openssl\bin\openssl.exe" base64
+    keytool -exportcert -alias releasekey -keystore ~/.android/releasekey.keystore | openssl sha1 -binary | openssl base64
 </manifest>
