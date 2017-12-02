@@ -427,7 +427,7 @@ Send me a pull request with modified README.md to get a shoutout!
 
 Feel free to create issues and pull requests.
 
-When creating pull requests, **more is more:** I'd like to see ten small pull requests separated by feature rather than all those combined into a huge one.
+When creating pull requests, **more is more:** I'd like to see ten small pull requests separated by feature rather than all those combined into a huge one. Thank you.
 
 ## License
 
